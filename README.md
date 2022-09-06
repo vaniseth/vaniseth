@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sethvani2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zIkfMpOtHrREtdgqwJXbsnJo-Bj-IOSy/view?usp=sharing](https://drive.google.com/file/d/1zIkfMpOtHrREtdgqwJXbsnJo-Bj-IOSy/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/3efEx5U](https://bit.ly/3efEx5U)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
