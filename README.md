@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vani</h1>
 <h3 align="center">A passionate developer who is interested Machine Learning</h3>
 
-- 🌱 I’m currently learning **Federated Learning, NLP**
+- 🌱 I’m currently learning **LLMs, NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@Vani_Seth](https://medium.com/@Vani_Seth)
 
@@ -48,10 +48,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaniseth&show_icons=true&locale=en" alt="vaniseth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaniseth&" alt="vaniseth" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaniseth&show_icons=true&locale=en&layout=compact" alt="vaniseth" /></p>
 
